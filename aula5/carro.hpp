@@ -1,3 +1,5 @@
+#ifndef CARRO_H_
+#define CARR0_H_
 #include <iostream>
 #include <string>
 using namespace std;
@@ -22,3 +24,4 @@ class Carro{
         int getCapacidade();
 
 };
+#endif

@@ -1,4 +1,6 @@
 #include "carro.hpp"
+#include <iostream>
+#include <string>
 
 Carro::Carro(){
     cout << "Criou o carro";
